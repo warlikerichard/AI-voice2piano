@@ -9,3 +9,9 @@ fluidsynth utilizado para converter .midi para .wav e librosa para converter .wa
 Arquivo necessário para conversão: https://member.keymusician.com/Member/FluidR3_GM/index.html
 
 max_length = 699
+
+
+Link do repositório no github: https://github.com/warlikerichard/AI-voice2piano/tree/master
+
+
+Obs: o modelo pode ser testado executando o arquivo runModel.py
