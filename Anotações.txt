@@ -1,3 +1,11 @@
 Dataset utilizado: https://magenta.tensorflow.org/datasets/maestro
                    Maestro v3
 
+wav2vec: pip install -U flash-attn --no-build-isolation
+	 pip install transformers torch librosa numpy
+
+fluidsynth utilizado para converter .midi para .wav e librosa para converter .wav para espectrograma: pip install mido fluidsynth librosa numpy matplotlib
+
+Arquivo necessário para conversão: https://member.keymusician.com/Member/FluidR3_GM/index.html
+
+max_length = 699
